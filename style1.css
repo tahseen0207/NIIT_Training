@@ -1,0 +1,27 @@
+.container{
+    padding : 20px;
+    background-color: rgb(246, 196, 252);
+}
+
+input[type=text], input[type=submit] {
+    width: 100%;
+    padding: 12px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #e2a1e7;
+  box-sizing: border-box;
+}
+
+input[type=checkbox]{
+    margin :10px;
+     
+}
+input[type=submit] {
+
+    background-color: #85368a;
+    color: white;
+    border: none;
+}
+input[type=submit]:hover {
+    background-color: #bc50c4;
+  }
